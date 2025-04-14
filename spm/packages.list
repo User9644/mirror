@@ -1,0 +1,14 @@
+spm
+spm_mirror
+/spm
+make # options: {(pre), make, basic-create-make}
+
+kilo
+github
+/antirez/kilo
+make
+
+nano
+web
+https://git.savannah.gnu.org/cgit/nano.git/snapshot/nano-8.4.tar.gz
+recursiv-create-make
