@@ -94,15 +94,15 @@
 🟦   Blue Square  
 🟪   Purple Square  
 🟫   Brown Square  
-😊   Smiling  
-👨‍💻   Programmer  
-👩‍💻   Developer  
+😊   Smiling Face  
+👨‍💻   Programmer
+👩‍💻   Developer
 📁   Folder  
 📂   Open Folder  
 📄   Document  
-📃   Page  
-📊   Chart  
-📈   Graph  
+📃   Page with Curl  
+📊   Bar Chart  
+📈   Up Graph  
 📉   Down Graph  
 🔒   Locked  
 🔓   Unlocked  
@@ -110,7 +110,7 @@
 🔨   Hammer  
 🛠️   Tools  
 ⚙️   Gear  
-💡   Idea  
+💡   Light Bulb  
 🧠   Brain  
 🚀   Rocket  
 🛰️   Satellite  
@@ -118,7 +118,7 @@
 🧭   Compass  
 🗺️   Map  
 📌   Pin  
-📍   Location  
+📍   Location Pin  
 🖱️   Mouse  
 ⌨️   Keyboard  
 📝   Memo  
@@ -127,17 +127,64 @@
 🔗   Link  
 💬   Speech Bubble  
 📢   Loudspeaker  
-🔊   Volume  
+🔊   Volume High  
 🔇   Mute  
-📶   Signal  
+📶   Signal Strength  
 🪫   Low Battery  
 🔋   Battery  
 💾   Floppy Disk  
 📀   CD  
 💿   Disc  
 📡   Antenna  
-🌟   Star  
-⭐   Star Filled  
+🌟   Glowing Star  
+⭐   Star  
 🌈   Rainbow  
-🎉   Confetti  
-🎊   Celebration  
+🎉   Party Popper  
+🎊   Confetti Ball  
+🪟   Window  
+⚠️   Warning  
+🎮   Game Controller  
+👍   Thumbs Up  
+👎   Thumbs Down  
+🎁   Wrapped Gift  
+🎲   Game Die  
+🥇   1st Place Medal  
+🥈   2nd Place Medal  
+🥉   3rd Place Medal  
+♟️   Chess Pawn  
+♠️   Spade Suit  
+♣️   Club Suit  
+♥️   Heart Suit  
+♦️   Diamond Suit  
+🔈   Speaker Low  
+🔉   Speaker Medium  
+🎵   Musical Note  
+🎹   Musical Keyboard  
+🧱   Brick  
+📦   Package  
+🗑️   Trash  
+🚽   Toilet  
+🌤️   Sun Behind Small Cloud  
+🌥️   Sun Behind Large Cloud  
+🌦️   Sun Behind Rain Cloud  
+🌧️   Cloud with Rain  
+🌨️   Cloud with Snow  
+🌩️   Cloud with Lightning  
+☁️   Cloud  
+⛅   Cloudy with Sun  
+⛈️   Thunderstorm  
+☀️   Sun  
+🌡️   Thermometer  
+⚡   High Voltage  
+❄️   Snowflake  
+💤   Sleep Symbol  
+🕳️   Hole  
+❌   Cross Mark  
+❗   Exclamation  
+❓   Question  
+💯   100 Points  
+☢️   Radioactive  
+☣️   Biohazard  
+♻️   Recycle  
+✅   Check Mark  
+💲   Dollar Symbol
